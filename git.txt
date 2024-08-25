@@ -1,4 +1,0 @@
-git udana hai toh (matlab sari files from repo)
-->> rm -rf .git
-agar samjho tumhe git repo delete karna hai pura bas kuch 1 2 file ko chodke toh
-->> .gitignore  (ye naam se ek file banao and simply uss file m,ei woh 1 2 file rakhe baki repo rm -rf .git karke delete)
