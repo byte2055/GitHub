@@ -97,3 +97,41 @@ html,body {
     border-radius: 50%;
     background-color: #0c0606;
 }
+
+#second{
+    color: #fff;
+    padding-right: 10vw;
+    padding-top: 200px;
+    width: 100%;
+    height: 100vh;
+    background-color: #102C57;
+}
+ .elem {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 3vw 3vw;
+    padding-right: 0vw;
+    border-top: 1px solid #888;
+ }
+
+ .elem h1{
+    text-transform: uppercase;
+    font-size: 4.5vw;
+    opacity: .7;
+}
+
+.elemlast {
+    border-bottom: 1px solid #888;
+
+}
+.elem h5{
+    opacity: .7;
+}
+.elem image{
+    height: 100%;
+    z-index: 999;
+    position: absolute;
+}
