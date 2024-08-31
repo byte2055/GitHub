@@ -130,8 +130,19 @@ html,body {
 .elem h5{
     opacity: .7;
 }
-.elem image{
-    height: 100%;
+.elem img{
+     display: none;
+    height: 120%;
     z-index: 999;
     position: absolute;
+}
+
+#about {
+    padding: 10vw 5vw;
+    width: 100%;
+    background-color: #102C57;
+}
+
+#about img {
+    width: 15vw;
 }
